@@ -242,7 +242,7 @@ function VerifyColisionMinute(){
 	    global.minutes = 00;
 		if(keyboard_check_released(ord("M")))
 		{		
-			show_message("Você selecionou o minuto: " + string(global.minute))
+			// show_message("Você selecionou o minuto: " + string(global.minute))
 			CompareHourAndMinute()
 		}
 	}

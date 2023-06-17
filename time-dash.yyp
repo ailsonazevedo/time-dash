@@ -70,6 +70,7 @@
     {"id":{"name":"Rotate","path":"scripts/Rotate/Rotate.yy",},},
     {"id":{"name":"btn_infos","path":"sprites/btn_infos/btn_infos.yy",},},
     {"id":{"name":"ButtonInfos","path":"objects/ButtonInfos/ButtonInfos.yy",},},
+    {"id":{"name":"obj_GameName","path":"objects/obj_GameName/obj_GameName.yy",},},
     {"id":{"name":"obj_soundHome","path":"objects/obj_soundHome/obj_soundHome.yy",},},
     {"id":{"name":"spr_digitalclock1","path":"sprites/spr_digitalclock1/spr_digitalclock1.yy",},},
     {"id":{"name":"ButtonExit","path":"objects/ButtonExit/ButtonExit.yy",},},

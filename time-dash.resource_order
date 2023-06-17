@@ -49,6 +49,7 @@
     {"name":"obj_minutehand","order":21,"path":"objects/obj_minutehand/obj_minutehand.yy",},
     {"name":"btn_infos","order":12,"path":"sprites/btn_infos/btn_infos.yy",},
     {"name":"ButtonInfos","order":19,"path":"objects/ButtonInfos/ButtonInfos.yy",},
+    {"name":"obj_GameName","order":28,"path":"objects/obj_GameName/obj_GameName.yy",},
     {"name":"obj_soundHome","order":22,"path":"objects/obj_soundHome/obj_soundHome.yy",},
     {"name":"spr_digitalclock1","order":3,"path":"sprites/spr_digitalclock1/spr_digitalclock1.yy",},
     {"name":"ButtonExit","order":20,"path":"objects/ButtonExit/ButtonExit.yy",},

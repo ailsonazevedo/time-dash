@@ -1,9 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_hourhand",
+  "name": "obj_GameName",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_minutehand",
-    "path": "sprites/spr_minutehand/spr_minutehand.yy",
+    "name": "spr_digitalclock1",
+    "path": "sprites/spr_digitalclock1/spr_digitalclock1.yy",
   },
   "spriteMaskId": null,
   "visible": true,

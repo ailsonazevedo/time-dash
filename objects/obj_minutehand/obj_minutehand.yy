@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_minutehand",
-    "path": "sprites/spr_minutehand/spr_minutehand.yy",
+    "name": "spr_hourhand",
+    "path": "sprites/spr_hourhand/spr_hourhand.yy",
   },
   "spriteMaskId": null,
   "visible": true,
