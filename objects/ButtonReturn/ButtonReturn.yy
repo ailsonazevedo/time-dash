@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ButtonInfos",
+  "name": "ButtonReturn",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,},
   ],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "btn_infos",
-    "path": "sprites/btn_infos/btn_infos.yy",
+    "name": "btn_return",
+    "path": "sprites/btn_return/btn_return.yy",
   },
   "spriteMaskId": null,
   "visible": true,
