@@ -1,66 +1,68 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-function VerifyColision(){
-	global .hora = 00;
+function VerifyColision(){ 
 	
-	
-	if (place_meeting(x,y, obj_hitbox1) <= 0)
+	if (image_angle <= -27 && image_angle >= -53)
 	{
-	    hora = 01;
+	    global.hour = 01;
 	}
 	
-	else if (place_meeting(x,y,obj_hitbox2) <= 0)
+	else if  (image_angle <= -54 && image_angle >= -84)
 	{
-	    hora = 02;
+	    global.hour = 02;
 	}
 	
-	else if (place_meeting(x,y,obj_hitbox3) <= 0)
+	else if (image_angle <= -85 && image_angle >= -116)
 	{
-	    hora = 03;
+	    global.hour = 03;
 	}
 	
-	else if (place_meeting(x,y,obj_hitbox4) <= 0)
+	else if (image_angle <= -117 && image_angle >= -148)
 	{
-	    hora = 04;
+	    global.hour = 04;
 	}
 	
-	else if (place_meeting(x,y,obj_hitbox5) <= 0)
+	else if (image_angle <= -149 && image_angle >= -174) 
 	{
-	    hora = 05;
+	    global.hour = 05;
 	}
 	
-	else if (place_meeting(x,y,obj_hitbox6) <= 0)
+	else if (image_angle <= -175 && image_angle >= -199) 
 	{
-	    hora = 06;
+	    global.hour = 06;
 	}
 	
-	else if (place_meeting(x,y,obj_hitbox7) <= 0)
+	else if (image_angle <= -200 && image_angle >= -228)
 	{
-	    hora = 07;
+	    global.hour = 07;
 	}
 	
-	else if (place_meeting(x,y,obj_hitbox8) <= 0)
+	else if (image_angle <= -229 && image_angle >= -264) 
 	{
-	    hora = 08;
+	    global.hour = 08;
 	}
 	
-	else if (place_meeting(x,y,obj_hitbox9) <= 0)
+	else if (image_angle <= -265 && image_angle >= -296) 
 	{
-	    hora = 09;
+	   global.hour = 09;
 	}
 	
-	else if (place_meeting(x,y,obj_hitbox10) <= 0)
+	else if (image_angle <= -297 && image_angle >= -325) 
 	{
-	    hora = 10;
+	    global.hour = 10;
 	}
 	
-	else if (place_meeting(x,y,obj_hitbox11) <= 0)
+	else if (image_angle <= -326 && image_angle >= -355)
 	{
-	    hora = 11;
+	    global.hour = 11;
 	}
+	//else if (image_angle <= -356 && image_angle >= -22)
+	//{
+	//    global.hour = 12;
+	//}
 	
 	else
 	{
-	    hora = 12;
+	    global.hour = 12;
 	}
 }
