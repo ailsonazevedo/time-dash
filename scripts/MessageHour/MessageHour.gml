@@ -3,6 +3,6 @@
 function MessageHour(){
 	if(keyboard_check_released(vk_space))
 	{		
-		global.messagehour = "Você selecionou a hora:" + " " + global.hour
+		//global.messagehour = "Você selecionou a hora:" + " " + global.hour
 	}
 }
