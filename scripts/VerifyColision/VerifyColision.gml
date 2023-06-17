@@ -56,10 +56,7 @@ function VerifyColision(){
 	{
 	    global.hour = 11;
 	}
-	//else if (image_angle <= -356 && image_angle >= -22)
-	//{
-	//    global.hour = 12;
-	//}
+
 	
 	else
 	{

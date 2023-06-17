@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_clock",
-  "bbox_bottom": 999,
+  "bbox_bottom": 1079,
   "bbox_left": 0,
-  "bbox_right": 999,
+  "bbox_right": 1919,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"96812f55-833f-4a51-a434-25908fc96edf",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2d1b1e40-fe72-44fe-8216-720f0a717362",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1000,
+  "height": 1080,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e6dedf08-f22c-49c1-a34b-bb9e8702d742","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"21f4fce3-4474-436e-8e6c-8dc5def5e04c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": {
     "resourceType": "GMNineSliceData",
@@ -77,13 +77,13 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"96812f55-833f-4a51-a434-25908fc96edf","path":"sprites/spr_clock/spr_clock.yy",},},},"Disabled":false,"id":"4a9cd35a-5e77-4b23-9004-1977798eec4e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"2d1b1e40-fe72-44fe-8216-720f0a717362","path":"sprites/spr_clock/spr_clock.yy",},},},"Disabled":false,"id":"37553d66-4107-40be-aa7f-687dfffce0a4","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 500,
-    "yorigin": 500,
+    "xorigin": 960,
+    "yorigin": 540,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,
@@ -93,5 +93,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1000,
+  "width": 1920,
 }

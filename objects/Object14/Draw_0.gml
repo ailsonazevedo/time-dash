@@ -3,6 +3,6 @@
 var mx = 100;
 var my = 100;
 
-draw_set_color(c_black)
+draw_set_color(c_white)
 draw_text(mx, my, global.angulo)
 draw_text(100, 120, global.hour)
