@@ -8,7 +8,6 @@ room_goto(clock);
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 6BA12EA1
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)RandomTime();$(13_10)global.timeSet = global.time;"
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)RandomTime();"
 /// @description Execute Code
 RandomTime();
-global.timeSet = global.time;

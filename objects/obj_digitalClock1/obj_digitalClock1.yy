@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object14",
+  "name": "obj_digitalClock1",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_digitalclock",
-    "path": "sprites/spr_digitalclock/spr_digitalclock.yy",
+    "name": "spr_digitalclock1",
+    "path": "sprites/spr_digitalclock1/spr_digitalclock1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
