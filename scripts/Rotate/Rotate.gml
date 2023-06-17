@@ -2,7 +2,7 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function Rotate(){
 	
-	if(keyboard_check_pressed(vk_space)){
+	if(keyboard_check(vk_space)){
 			image_angle -= 15;
 	}
 	global.angulo = image_angle;

@@ -19,8 +19,10 @@
   "ResourceOrderSettings": [
     {"name":"spr_hourhand","order":6,"path":"sprites/spr_hourhand/spr_hourhand.yy",},
     {"name":"spr_hitbox","order":7,"path":"sprites/spr_hitbox/spr_hitbox.yy",},
+    {"name":"spr_pointcenter","order":8,"path":"sprites/spr_pointcenter/spr_pointcenter.yy",},
     {"name":"VerifyColision","order":1,"path":"scripts/VerifyColision/VerifyColision.yy",},
     {"name":"Object14","order":15,"path":"objects/Object14/Object14.yy",},
+    {"name":"Object3","order":16,"path":"objects/Object3/Object3.yy",},
     {"name":"spr_clock","order":1,"path":"sprites/spr_clock/spr_clock.yy",},
     {"name":"spr_minutehand","order":5,"path":"sprites/spr_minutehand/spr_minutehand.yy",},
     {"name":"spr_digitalclock","order":3,"path":"sprites/spr_digitalclock/spr_digitalclock.yy",},

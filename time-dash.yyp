@@ -36,9 +36,11 @@
   "resources": [
     {"id":{"name":"spr_hourhand","path":"sprites/spr_hourhand/spr_hourhand.yy",},},
     {"id":{"name":"spr_hitbox","path":"sprites/spr_hitbox/spr_hitbox.yy",},},
+    {"id":{"name":"spr_pointcenter","path":"sprites/spr_pointcenter/spr_pointcenter.yy",},},
     {"id":{"name":"VerifyColision","path":"scripts/VerifyColision/VerifyColision.yy",},},
     {"id":{"name":"Object14","path":"objects/Object14/Object14.yy",},},
     {"id":{"name":"clock","path":"rooms/clock/clock.yy",},},
+    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
     {"id":{"name":"spr_clock","path":"sprites/spr_clock/spr_clock.yy",},},
     {"id":{"name":"Font_HoloLens","path":"fonts/Font_HoloLens/Font_HoloLens.yy",},},
     {"id":{"name":"Rotate","path":"scripts/Rotate/Rotate.yy",},},
