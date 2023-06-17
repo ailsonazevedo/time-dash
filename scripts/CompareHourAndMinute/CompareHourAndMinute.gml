@@ -4,5 +4,9 @@ function CompareHourAndMinute(){
 	if(global.minute == global.minutes && global.hour == global.hours)
 	{
 		global.status = true;
+		if(global.status){
+			show_message("Parabens, Você Acertou")
+		}
+		
 	}
 }

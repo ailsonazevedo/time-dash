@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_digitalClock1",
+  "name": "obj_digitalClock2",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
