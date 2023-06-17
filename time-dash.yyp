@@ -50,6 +50,7 @@
     {"id":{"name":"spr_minutehand","path":"sprites/spr_minutehand/spr_minutehand.yy",},},
     {"id":{"name":"ButtonConfig","path":"objects/ButtonConfig/ButtonConfig.yy",},},
     {"id":{"name":"bg_home","path":"sprites/bg_home/bg_home.yy",},},
+    {"id":{"name":"CompareHourAndMinute","path":"scripts/CompareHourAndMinute/CompareHourAndMinute.yy",},},
     {"id":{"name":"SoundHome","path":"sounds/SoundHome/SoundHome.yy",},},
     {"id":{"name":"obj_digitalClock1","path":"objects/obj_digitalClock1/obj_digitalClock1.yy",},},
     {"id":{"name":"clock","path":"rooms/clock/clock.yy",},},

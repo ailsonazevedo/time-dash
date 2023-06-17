@@ -33,6 +33,7 @@
     {"name":"spr_minutehand","order":14,"path":"sprites/spr_minutehand/spr_minutehand.yy",},
     {"name":"ButtonConfig","order":18,"path":"objects/ButtonConfig/ButtonConfig.yy",},
     {"name":"bg_home","order":9,"path":"sprites/bg_home/bg_home.yy",},
+    {"name":"CompareHourAndMinute","order":4,"path":"scripts/CompareHourAndMinute/CompareHourAndMinute.yy",},
     {"name":"obj_digitalClock1","order":15,"path":"objects/obj_digitalClock1/obj_digitalClock1.yy",},
     {"name":"Object3","order":16,"path":"objects/Object3/Object3.yy",},
     {"name":"spr_clock","order":1,"path":"sprites/spr_clock/spr_clock.yy",},
