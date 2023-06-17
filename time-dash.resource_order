@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"MessageHour","order":2,"path":"scripts/MessageHour/MessageHour.yy",},
     {"name":"spr_hourhand","order":6,"path":"sprites/spr_hourhand/spr_hourhand.yy",},
     {"name":"spr_hitbox","order":7,"path":"sprites/spr_hitbox/spr_hitbox.yy",},
     {"name":"spr_pointcenter","order":8,"path":"sprites/spr_pointcenter/spr_pointcenter.yy",},

@@ -34,6 +34,7 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
+    {"id":{"name":"MessageHour","path":"scripts/MessageHour/MessageHour.yy",},},
     {"id":{"name":"spr_hourhand","path":"sprites/spr_hourhand/spr_hourhand.yy",},},
     {"id":{"name":"spr_hitbox","path":"sprites/spr_hitbox/spr_hitbox.yy",},},
     {"id":{"name":"spr_pointcenter","path":"sprites/spr_pointcenter/spr_pointcenter.yy",},},
