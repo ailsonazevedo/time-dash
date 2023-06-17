@@ -25,6 +25,7 @@
     {"name":"ButtonStart","order":17,"path":"objects/ButtonStart/ButtonStart.yy",},
     {"name":"spr_pointcenter","order":8,"path":"sprites/spr_pointcenter/spr_pointcenter.yy",},
     {"name":"btn_exit","order":13,"path":"sprites/btn_exit/btn_exit.yy",},
+    {"name":"RandomTime","order":3,"path":"scripts/RandomTime/RandomTime.yy",},
     {"name":"btn_config","order":11,"path":"sprites/btn_config/btn_config.yy",},
     {"name":"VerifyColision","order":1,"path":"scripts/VerifyColision/VerifyColision.yy",},
     {"name":"ButtonConfig","order":18,"path":"objects/ButtonConfig/ButtonConfig.yy",},

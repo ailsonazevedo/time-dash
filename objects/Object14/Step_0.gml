@@ -6,4 +6,6 @@ var my = 100;
 draw_set_color(c_white)
 draw_text(mx, my, global.angulo)
 draw_text(100, 120, global.hour)
-draw_text(100, 140, global.timeSet)
+
+Random_Hora()
+draw_text(100, 140, global.time)

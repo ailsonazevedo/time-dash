@@ -42,6 +42,7 @@
     {"id":{"name":"ButtonStart","path":"objects/ButtonStart/ButtonStart.yy",},},
     {"id":{"name":"spr_pointcenter","path":"sprites/spr_pointcenter/spr_pointcenter.yy",},},
     {"id":{"name":"btn_exit","path":"sprites/btn_exit/btn_exit.yy",},},
+    {"id":{"name":"RandomTime","path":"scripts/RandomTime/RandomTime.yy",},},
     {"id":{"name":"btn_config","path":"sprites/btn_config/btn_config.yy",},},
     {"id":{"name":"VerifyColision","path":"scripts/VerifyColision/VerifyColision.yy",},},
     {"id":{"name":"ButtonConfig","path":"objects/ButtonConfig/ButtonConfig.yy",},},
