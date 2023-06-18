@@ -3,7 +3,7 @@
 function RotateHours(){
 	
 	if(keyboard_check(ord("H"))){
-			image_angle -= 15;
+			image_angle -= 10;
 	}
 	global.angulo = image_angle;
 	if(global.angulo < -360)

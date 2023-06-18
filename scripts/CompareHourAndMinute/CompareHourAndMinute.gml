@@ -6,6 +6,7 @@ function CompareHourAndMinute(){
 		global.status = true;
 		if(global.status){
 			show_message("Parabens, Você Acertou")
+			game_restart();
 		}
 		
 	}
